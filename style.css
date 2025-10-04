@@ -7,7 +7,7 @@
 }
 :root {
   --backgroundColor: white;
-  --containerColor: #f3e5f5;
+  --containerColor: #fcf8ff;
   --containerCColor: #fcf8ff;
   --iconColor: #4c00b0;
   --font-sizeSSmall: 0.6rem;
@@ -241,7 +241,7 @@ header {
   background-color: var(--containerCColor);
   row-gap: var(--space-sizeSSmall);
   padding: var(--space-sizeSSmall);
-  box-shadow: 0 4px 8px rgba(75, 0, 130, 0.3);
+  box-shadow: 0 4px 6px rgba(128, 0, 128, 0.15);
 }
 
 #icon {
@@ -998,7 +998,7 @@ footer {
     row-gap: var(--font-sizeSSmall);
   }
   input {
-    width: 25rem;
+    width: 20rem;
     height: 1.7rem;
     outline-color: #4c00b0;
   }
