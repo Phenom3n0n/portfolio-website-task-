@@ -241,7 +241,7 @@ header {
   background-color: var(--containerCColor);
   row-gap: var(--space-sizeSSmall);
   padding: var(--space-sizeSSmall);
-  box-shadow: 0 4px 6px rgba(128, 0, 128, 0.15);
+  box-shadow: 0 2px 8px rgba(147, 112, 219, 0.12);
 }
 
 #icon {
@@ -973,7 +973,7 @@ footer {
     height: auto;
   }
   .para p {
-    font-size: var(--font-sizeSSmall);
+    font-size: 0.45rem;
     font-weight: 600;
     color: var(--iconColor);
   }
